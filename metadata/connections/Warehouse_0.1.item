@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="__fg1wBMpEemfxeJIqETVnA" name="Warehouse" id="_6qN6wBMpEemfxeJIqETVnA" label="Warehouse" dataPackage="_BO-oQBMqEemfxeJIqETVnA" ContextMode="true" ContextId="_A0sgABMqEemfxeJIqETVnA" contextName="Default" DatabaseType="Oracle with SID" DriverClass="oracle.jdbc.OracleDriver" URL="jdbc:oracle:thin:@localhost:1521:XE" dbVersionString="ORACLE_11" Port="context.Warehouse_Port" Username="context.Warehouse_Login" Password="context.Warehouse_Password" ServerName="context.Warehouse_Server" DatasourceName="" FileFieldName="" SID="context.Warehouse_Sid" SqlSynthax="" StringQuote="" NullChar="" DbmsId="oracle_id" ProductId="ORACLE" AdditionalParams="context.Warehouse_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="context.Warehouse_Schema">
+    <taggedValue xmi:id="__fg1wRMpEemfxeJIqETVnA" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="__gJH4BMpEemfxeJIqETVnA" tag="package filter" value=""/>
+    <taggedValue xmi:id="__gJu8BMpEemfxeJIqETVnA" tag="Status" value=""/>
+    <taggedValue xmi:id="__gJu8RMpEemfxeJIqETVnA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="__gJu8hMpEemfxeJIqETVnA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="__gJu8xMpEemfxeJIqETVnA" tag="Description" value=""/>
+    <taggedValue xmi:id="__gJu9BMpEemfxeJIqETVnA" tag="Author" value=""/>
+    <taggedValue xmi:id="__gJu9RMpEemfxeJIqETVnA" tag="otherParameter"/>
+    <taggedValue xmi:id="__gSR0BMpEemfxeJIqETVnA" tag="DB ProductName" value="Oracle"/>
+    <taggedValue xmi:id="__gSR0RMpEemfxeJIqETVnA" tag="DB ProductVersion" value="Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production"/>
+    <taggedValue xmi:id="__gSR0hMpEemfxeJIqETVnA" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="__fg1whMpEemfxeJIqETVnA" key="CONN_PARA_KEY_USERNAME" value="context.Warehouse_Login"/>
+    <parameters xmi:id="__0lG0BMpEemfxeJIqETVnA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_BO-oQBMqEemfxeJIqETVnA" name="WAREHOUSE" dataManager="__fg1wBMpEemfxeJIqETVnA"/>
+</xmi:XMI>
